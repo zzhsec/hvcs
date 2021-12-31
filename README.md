@@ -8,5 +8,14 @@
 > 实现功能：主机存活检测（准确率可以与某些scan工具做对比🤞），端口检测，TCP服务识别、Web应用指纹识别、弱口令/未授权检测、AI漏洞检测，根据目标程序特点定向发包，支持扫描域名
 >效果可根据下图自行评判（为了可直观看到效果，下方测试任务指定了端口扫描）。
 
+虚拟靶机扫描：
 ![login](https://github.com/yqcs/hvcs/raw/main/tp.png)
+公网随便找的一个网段：
+![login](https://github.com/yqcs/hvcs/raw/main/22.jpg)
+
+微步与defender认证无危害黑客工具
+![login](https://github.com/yqcs/hvcs/raw/main/wb.png)
+
+![login](https://github.com/yqcs/hvcs/raw/main/df.png)
+
 > 感兴趣的朋友可以从我的其他项目中找到我的联系方式
